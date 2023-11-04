@@ -7,7 +7,8 @@ This is the repository for the article "Digital Turn Without Digital Methods? Ma
 - data: our study draws on data from Open Alex (https://openalex.org/) and the web pages related to the article DOIs. 
 - code: code we used to wrangle, analyze, and visualize data. 
 
-![image](https://github.com/YangliuF95/Journalism_studies_bibliometrics/assets/60612969/a2e01e03-13c4-4a42-b5a4-f75173905ab6)
+![image](https://github.com/YangliuF95/Journalism_studies_bibliometrics/assets/60612969/26920fee-5005-49d4-b3f5-646f7c04a638)
+
 
 
 
