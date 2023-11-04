@@ -2,7 +2,7 @@
 
 
 ## Repository structure
-This is the repository for the article "" and contains the following elements:
+This is the repository for the article "Digital Turn Without Digital Methods? Mapping the Journey of Journalism Studies" and contains the following elements:
  
 - data: our study draws on data from Open Alex (https://openalex.org/) and the web pages related to the article DOIs. 
 - code: code we used to wrangle, analyze, and visualize data. 
